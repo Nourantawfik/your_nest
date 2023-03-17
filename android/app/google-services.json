@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515098749836",
+    "project_id": "your-nest",
+    "storage_bucket": "your-nest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515098749836:android:5cc8d63438275745dd44a9",
+        "android_client_info": {
+          "package_name": "com.example.your_nest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515098749836-k0hgpjf1jgt4l9au1adglu99tb3860gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrQ_hc-u7fb3hiYZAG4SKg0k-sZTCRkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515098749836-k0hgpjf1jgt4l9au1adglu99tb3860gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
